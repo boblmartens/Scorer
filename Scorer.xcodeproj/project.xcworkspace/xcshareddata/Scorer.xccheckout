@@ -3,34 +3,34 @@
 <plist version="1.0">
 <dict>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>13D43935-B01D-4544-AB3A-74D238B4819E</string>
+	<string>B9D7EFFD-BF59-406E-84D5-F86D53B90952</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Scorer</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>74E7B21F-5558-4775-A18F-042AB2DF8F64</key>
-		<string>ssh://bitbucket.org/deck78/scorer.git</string>
+		<key>2F2BE3D7-BA9D-4E99-808D-A598338E57A5</key>
+		<string>ssh://github.com/boblmartens/Scorer.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Scorer.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>74E7B21F-5558-4775-A18F-042AB2DF8F64</key>
+		<key>2F2BE3D7-BA9D-4E99-808D-A598338E57A5</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://bitbucket.org/deck78/scorer.git</string>
+	<string>ssh://github.com/boblmartens/Scorer.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>74E7B21F-5558-4775-A18F-042AB2DF8F64</string>
+	<string>2F2BE3D7-BA9D-4E99-808D-A598338E57A5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>74E7B21F-5558-4775-A18F-042AB2DF8F64</string>
+			<string>2F2BE3D7-BA9D-4E99-808D-A598338E57A5</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Scorer</string>
 		</dict>
